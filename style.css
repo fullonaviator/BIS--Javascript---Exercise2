@@ -1,0 +1,20 @@
+h1, h2, h3, h4, p{
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ #playBtn{ 
+     height: 13vh;
+     width: 13vw;  
+ }
+
+ .output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
